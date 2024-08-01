@@ -42,9 +42,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">9</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Tarzan adopts a lion cub and struggles with a team of thieves seeking the treasures of the lost city of Opar.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Tarzan, the legendary ape-man living in the African jungle, adopts the orphaned lion cub Jad-bal-ja, raising him to become a powerful and loyal companion. Meanwhile, a former housemaid of Tarzan and his wife Jane devises a scheme to steal the treasures of the lost city of Opar. She engages a lookalike of Tarzan to deceive the high priestess of Opar, Queen La, and gain access to the city’s vaults.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Tarzan and the Golden Lion&lt;/i&gt; first appeared as a serial in &lt;i&gt;Argosy All-Story Weekly&lt;/i&gt; in 1922, and was then published as a novel by &lt;abbr&gt;A.C.&lt;/abbr&gt; McClurg &amp;amp; &lt;abbr&gt;Co.&lt;/abbr&gt; in March 1923. It is the ninth book in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; series by &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58874</dc:source>
