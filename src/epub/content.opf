@@ -51,7 +51,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58874</dc:source>
 		<dc:source>https://archive.org/details/tarzangoldenlion00burr</dc:source>
-		<meta property="se:word-count">80886</meta>
+		<meta property="se:word-count">80419</meta>
 		<meta property="se:reading-ease.flesch">67.28</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tarzan_and_the_Golden_Lion</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_tarzan-and-the-golden-lion</meta>
